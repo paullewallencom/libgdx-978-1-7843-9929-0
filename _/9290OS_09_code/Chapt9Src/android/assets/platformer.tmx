@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="7" tilewidth="72" tileheight="72">
+ <tileset firstgid="1" name="Platformer" tilewidth="72" tileheight="72">
+  <image source="tiles70x70_spritesheet.png" width="914" height="936"/>
+ </tileset>
+ <layer name="Base" width="12" height="7">
+  <data encoding="base64" compression="zlib">
+   eJyzYGBgsBhBWAcJk6qeGAwAGjQRrQ==
+  </data>
+ </layer>
+ <layer name="Platforms" width="12" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAM1AFxGgE1RUAchUfeFYh1CZjRCMSZBNSUAnEsATVmUKwFxOlYcCEQpyJhUgEAN0QIGA==
+  </data>
+ </layer>
+ <layer name="Props" width="12" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxTY2BgcGNABaZALMKAGwQBsSOamAIQSyHx0fULY1GPjz8Nj/1qSOo1gVgSj3pJHObTCgAAQFUD1w==
+  </data>
+ </layer>
+</map>

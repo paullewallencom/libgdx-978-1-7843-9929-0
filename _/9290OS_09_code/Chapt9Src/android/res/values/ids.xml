@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">747144849245</string>
+    <string name="leaderboard_id">CgkI3c62qt8VEAIQAg</string>
+    <string name="achievement10_id">CgkI3c62qt8VEAIQAw</string>
+    <string name="achievement20_id">CgkI3c62qt8VEAIQBA</string>
+    <string name="achievement30_id">CgkI3c62qt8VEAIQBQ</string>
+    <string name="achievement40_id">CgkI3c62qt8VEAIQBg</string>
+    <string name="achievement50_id">CgkI3c62qt8VEAIQBw</string>
+</resources>
